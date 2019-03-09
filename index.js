@@ -1,6 +1,6 @@
 const writer = require('./lib/writer')
 
-const path = './file/file3.xlsx'
+const path = './file/file4.xlsx'
 const fileName = "test.json"
 
 function call(path) {
